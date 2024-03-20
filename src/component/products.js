@@ -31,7 +31,7 @@ function Products(){
     </div> */}
 <div className='Product-card-main'>
     <div className='Product-card'>
-
+        <img src="" alt="Product-Image" />
     </div>
     <div className='Product-card'>
 

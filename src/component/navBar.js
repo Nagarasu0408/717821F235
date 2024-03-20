@@ -1,4 +1,5 @@
 import LOGO from '../logo.png';
+import Searchbar from './searchbar';
 
 function Navbar(){
     return(
@@ -13,6 +14,7 @@ function Navbar(){
             <p className="hover-underline-animation">About</p>
             <p className="hover-underline-animation">Products</p>
             <p className="hover-underline-animation">Login</p>
+            <Searchbar />
         </div>
         </div>
         </>
